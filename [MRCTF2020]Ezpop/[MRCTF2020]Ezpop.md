@@ -254,4 +254,4 @@ echo urlencode(serialize($b));
 >
 > PD9waHAKY2xhc3MgRmxhZ3sKICAgIHByaXZhdGUgJGZsYWc9ICJmbGFnezIxYzg5MmRhLTRmYjYtNDQ5YS1iNjZlLWE5MTEzYWY2ZjRhYn0iOwp9CmVjaG8gIkhlbHAgTWUgRmluZCBGTEFHISI7Cj8+
 
-![image-20230321164036201](J:\markdown_file\[MRCTF2020]Ezpop\1.png)
+![[image-20230321164036201](J:\markdown_file\[MRCTF2020]Ezpop\1.png)](https://raw.githubusercontent.com/lanchuangdexingjian/Blog-libray/main/%5BMRCTF2020%5DEzpop/1.png)
