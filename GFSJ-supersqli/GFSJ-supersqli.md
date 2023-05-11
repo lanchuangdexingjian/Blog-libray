@@ -32,7 +32,7 @@
 
 ### 1.预编译绕过
 
-什么是预编译？[参考]:https://www.cnblogs.com/micrari/p/7112781.html
+[什么是预编译?](https://www.cnblogs.com/micrari/p/7112781.html)
 
 通常我们的一条sql在db接收到最终执行完毕返回可以分为下面三个过程：
 
